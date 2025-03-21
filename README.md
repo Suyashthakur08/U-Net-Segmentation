@@ -53,9 +53,7 @@ python predict.py --image_path sample.jpg --model_path unet_model.pth
 The trained U-Net model achieves:
 - **Dice Score:** 0.95
 - **IoU:** 0.87
-
-Sample segmented images:
-![Sample Segmentation](results/sample_output.png)
+  
 
 ## 🎯 Future Improvements
 - Experimenting with advanced architectures (e.g., DeepLabV3+).
