@@ -63,7 +63,3 @@ The trained U-Net model achieves:
 ## 🤝 Acknowledgments
 - Kaggle dataset contributors.
 - Libraries: TensorFlow/Keras, PyTorch, OpenCV, Albumentations.
-
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
